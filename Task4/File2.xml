@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalog>
+    <cities size="big">
+        <name>Kyiv</name>
+    </cities>
+    <cities size="medium">
+        <name>Nikopol</name>
+    </cities>
+    <cities size="small">
+        <name>Marganets</name>
+    </cities>
+</catalog>
